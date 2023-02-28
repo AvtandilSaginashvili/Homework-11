@@ -144,6 +144,22 @@ body {
     transform: scale(0.93);
 }
 
+
+.getbutt1 {
+    width: 100% !important;
+    height: 60px;
+    border: none;
+    border-radius: 20px;
+    background-color: #A259FF;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #ffffff;
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
 .p2 {
     font-family: 'Space Mono' !important;
     font-style: normal !important;
@@ -262,6 +278,19 @@ body {
 
 .rcktlaunch path {
     transition: all .4s !important;
+}
+
+.viewrankings1 {
+    border: 2px solid #A259FF !important;
+    background-color: #2B2B2B !important;
+    color: #fff !important;
+    border-radius: 20px !important;
+    width: 100% !important;
+    height: 60px !important;
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 16px !important;
 }
 
 .topcreatorsdiv {
@@ -454,6 +483,22 @@ body {
 
 /* Magic Mushroom Section */
 
+
+.mushroomdiv {
+    background-image: url(./pics/NFTInfo.png) !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+@media screen and (max-width: 768px) {
+    .mushroomdiv {
+        background-image: url(./pics/NFTbgmobile.png) !important;
+        background-repeat: no-repeat !important;
+        background-size: cover !important;
+        width: 100% !important;
+    }
+}
+
 .p9 {
     font-family: 'Work Sans' !important;
     font-style: normal !important;
@@ -504,6 +549,39 @@ body {
     color: #A259FF !important;
 }
 
+.timerdiv {
+    width: 100% !important;
+    background-color: #3B3B3B80;
+    border-radius: 20px !important;
+}
+
+.p12 {
+    font-family: 'Space Mono' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 12px !important;
+    color: #fff !important;
+    margin-left: 160px !important;
+    padding-top: 20px !important;
+}
+
+.p59 {
+    font-family: 'Space Mono' !important;
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 38px !important;
+    color: #fff !important;
+}
+
+.p13 {
+    font-family: 'Space Mono' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 12px !important;
+    color: #fff !important;
+    padding-bottom: 30px;
+}
+
 
 /* How It Works Section */
 
@@ -546,4 +624,150 @@ body {
     font-size: 16px !important;
     color: #fff !important;
     text-align: center !important;
+}
+
+
+/* Join Our Weekly Digest Section */ 
+
+
+.cosmodiv {
+    background-color: #3B3B3B !important;
+    border-radius: 20px !important;
+}
+
+@media screen and (max-width: 768px) {
+    .cosmodiv {
+        background-color: #2B2B2B !important;
+    }
+}
+
+.h3-digest {
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 38px !important;
+    color: #fff !important;
+    margin-top: 5px !important;
+}
+
+.p14 {
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 22px !important;
+    color: #fff !important;
+    margin-top: 10px !important;
+}
+
+.emailinput {
+    border: none !important;
+    border-radius: 20px !important;
+    height: 60px !important;
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    outline: none !important;
+    padding-left: 20px !important;
+}
+
+.emailinput1 {
+    border: none !important;
+    border-radius: 20px !important;
+    width: 100% !important;
+    height: 60px !important;
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    outline: none !important;
+    padding-left: 20px !important;
+    margin-bottom: 16px !important;
+}
+
+.subscribebutt {
+    height: 60px !important;
+    width: 100% !important;
+    border: none !important;
+    border-radius: 20px !important;
+    background-color: #A259FF !important;
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+    color: #fff !important;
+    overflow: visible !important;
+}
+
+.subsdiv {
+    background-color: #fff !important;
+    border-radius: 20px !important;
+}
+
+
+/* Footer Section */
+
+
+footer {
+    background-color: #3B3B3B !important;
+}
+
+.p15 {
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    color: #ccc;
+    margin-top: 33px !important;
+}
+
+.p16 {
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    color: #ccc;
+    margin-top: 20px !important;
+}
+
+.h4-explore {
+    font-family: 'Space Mono' !important;
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 22px !important;
+    color: #fff !important;
+}
+
+.p-marketplace {
+    color: #ccc !important;
+    font-family: 'Work Sans';
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    cursor: pointer !important;
+}
+
+.h3-weekly {
+    font-family: 'Space Mono' !important;
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 22px !important;
+    color: #fff !important;
+}
+
+.p17 {
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    color: #ccc !important;
+    margin-top: 25px !important;
+}
+
+.p18 {
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 12px !important;
+    color: #ccc !important;
 }
