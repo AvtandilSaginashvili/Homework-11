@@ -216,3 +216,334 @@ body {
     font-size: 16px !important;
     color: #fff;
 }
+
+
+/* Top Creators Section */ 
+
+
+.topcreators {
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 38px !important;
+    color: #fff !important;
+}
+
+.p5 {
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 22px !important;
+    color: #fff !important;
+}
+
+.viewrankings {
+    border: 2px solid #A259FF !important;
+    background-color: #2B2B2B !important;
+    color: #fff !important;
+    border-radius: 20px !important;
+    width: 247px !important;
+    height: 60px !important;
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+    transition: all .4s !important;
+}
+
+.viewrankings:hover {
+    transform: scale(0.94) !important;
+    background-color: #A259FF !important;
+}
+
+.viewrankings:hover .rcktlaunch path {
+    fill: #fff;
+}
+
+.rcktlaunch path {
+    transition: all .4s !important;
+}
+
+.topcreatorsdiv {
+    background-color: #3B3B3B !important;
+    border-radius: 20px !important;
+    width: 100% !important;
+    height: auto !important;
+}
+
+.h4-keep {
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 22px !important;
+    color: #fff !important;
+    text-align: center !important;
+}
+
+.p6 {
+    font-family: 'Space Mono' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    color: #fff !important;
+    text-align: center !important;
+}
+
+.totalsale {
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    text-align: center !important;
+}
+
+.viewrankings1 {
+    border: 2px solid #A259FF !important;
+    background-color: #2B2B2B !important;
+    color: #fff !important;
+    border-radius: 20px !important;
+    width: 100% !important;
+    height: 60px !important;
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+}
+
+
+/* Browse Categories section */
+
+
+.h3-browse {
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 38px !important;
+    color: #fff !important;
+}
+
+.categoriesdiv {
+    border-radius: 20px !important;
+    background-color: #3B3B3B !important;
+    cursor: pointer !important;
+    transition: all .4s;
+}
+
+.categoriesdiv:hover {
+    transform: scale(1.1);
+}
+
+.categoriesdiv:hover .art707 {
+    color: #A259FF !important;
+}
+
+.art707 {
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 22px !important;
+    color: #fff !important;
+    padding: 40px !important;
+    transition: all .4s;
+}
+
+
+/* Discover More NFT Section */
+
+
+.h3-discover {
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 38px !important;
+    color: #fff !important;
+}
+
+.p7 {
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 22px !important;
+    color: #fff !important;
+}
+
+.buttseeall {
+    border: 2px solid #A259FF !important;
+    border-radius: 20px !important;
+    width: 187px !important;
+    height: 60px !important;
+    background-color: #2B2B2B !important;
+    color: #fff !important;
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+    transition: all .4s;
+}
+
+.buttseeall:hover {
+    transform: scale(0.95);
+    background-color: #A259FF !important;
+}
+
+.eye707 path {
+    transition: all .4s !important;
+}
+
+.buttseeall:hover .eye707 path {
+    fill: #fff;
+}
+
+.distantdiv {
+    border-top-right-radius: 20px !important;
+    border-top-left-radius: 20px !important;
+}
+
+.distantdiv1 {
+    background-color: #3B3B3B !important;
+    border-bottom-left-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
+    padding-top: 10px !important;
+}
+
+.h3-distant {
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 22px !important;
+    color: #fff !important;
+}
+
+.p8 {
+    font-family: 'Space Mono' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    color: #fff !important;
+}
+
+.price {
+    font-family: 'Space Mono' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 12px !important;
+    color: #858584 !important;
+}
+
+.ethp {
+    font-family: 'Space Mono' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    color: #fff !important;
+}
+
+.buttseeall1 {
+    border: 2px solid #A259FF !important;
+    border-radius: 20px !important;
+    width: 100% !important;
+    height: 60px !important;
+    background-color: #2B2B2B !important;
+    color: #fff !important;
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+}
+
+
+/* Magic Mushroom Section */
+
+.p9 {
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    color: #fff !important;
+    margin: 0 !important;
+}
+
+.shroomieavatardiv {
+    background-color: #3B3B3B;
+    width: 151px !important;
+    height: 44px !important;
+    border-radius: 20px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.h3-magic {
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 51px !important;
+    color: #fff !important;
+    margin-top: 30px !important;
+}
+
+.buttseenft {
+    width: 198px !important;
+    height: 60px !important;
+    border: none !important;
+    border-radius: 20px !important;
+    background-color: #fff;
+    color: #2B2B2B !important;
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+    margin-top: 30px !important;
+    transition: all .4s;
+}
+
+.buttseenft:hover {
+    transform: scale(0.95);
+    background-color: transparent !important;
+    border: 2px dashed #A259FF !important;
+    color: #A259FF !important;
+}
+
+
+/* How It Works Section */
+
+
+.h3-works {
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 38px !important;
+    color: #fff !important;
+}
+
+.p10 {
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 22px !important;
+    color: #fff !important;
+}
+
+.walletdiv {
+    background-color: #3B3B3B !important;
+    border-radius: 20px !important;
+
+}
+
+.h5-wallet {
+    color: #fff !important;
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 22px !important;
+    text-align: center !important;
+}
+
+.p11 {
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    color: #fff !important;
+    text-align: center !important;
+}
