@@ -309,6 +309,16 @@ body {
     text-align: center !important;
 }
 
+.animakidprofile {
+    font-family: 'Work Sans' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 22px !important;
+    color: #fff !important;
+    text-align: center !important;
+    text-decoration: none !important;
+}
+
 .p6 {
     font-family: 'Space Mono' !important;
     font-style: normal !important;
